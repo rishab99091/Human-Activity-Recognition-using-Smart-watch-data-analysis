@@ -1,0 +1,1 @@
+# Human-Activity-Recognition-using-Smart-watch-data-analysis
